@@ -4,7 +4,7 @@
 
 Contributors
 
-Erdem Adaçal 
-Hüseyin Emre Başar 
-Emre Gürçay 
-Mehmet Erim Erdal
+Erdem Adaçal, 
+Hüseyin Emre Başar, 
+Emre Gürçay, 
+Mehmet Erim Erdal,
